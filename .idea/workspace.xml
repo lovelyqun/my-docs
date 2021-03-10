@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="新建">
-      <change beforePath="$PROJECT_DIR$/docs/closure.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/closure.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/mini-program/downLoad.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615339135316</updated>
       <workItem from="1615339136371" duration="2249000" />
-      <workItem from="1615341452059" duration="695000" />
+      <workItem from="1615341452059" duration="3245000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1615341504362</created>
@@ -66,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615342126010</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新建">
+      <created>1615342150539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615342150539</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,9 +100,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="新建" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1615342121804">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1615342187192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1615342121804" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1615342187192" />
   </component>
 </project>
