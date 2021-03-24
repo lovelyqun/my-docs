@@ -7,3 +7,4 @@
 
 - 小程序
 - [下载文件](./mini-program/downLoad.md)
+- [canvas](./mini-program/canvas.md)

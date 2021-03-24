@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="新建">
-      <change afterPath="$PROJECT_DIR$/docs/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/mini-program/downLoad.md" afterDir="false" />
+    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="构建教程添加">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +39,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/mini-program" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my-docs\docs\mini-program" />
+      <recent name="E:\my-docs\docs\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +58,9 @@
       <option name="presentableId" value="Default" />
       <updated>1615339135316</updated>
       <workItem from="1615339136371" duration="2249000" />
-      <workItem from="1615341452059" duration="3245000" />
+      <workItem from="1615341452059" duration="5261000" />
+      <workItem from="1616490662914" duration="2470000" />
+      <workItem from="1616586978000" duration="1189000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1615341504362</created>
@@ -78,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615342150539</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="构建教程添加">
+      <created>1615345035712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615345035712</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,15 +106,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建" />
+    <MESSAGE value="构建教程添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="构建教程添加" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1615342187192">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1615345038430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1615342187192" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1615345038430" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616587545214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1616587545214" />
   </component>
 </project>
