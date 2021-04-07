@@ -5,9 +5,9 @@
 ### 什么是防抖和节流？有什么区别？如何实现？
 + 防抖:    
 
-> 触发高频事件后n秒内函数只会执行一次，如果n秒内高频事件再次被触发，则重新计算时间     
+    > 触发高频事件后n秒内函数只会执行一次，如果n秒内高频事件再次被触发，则重新计算时间     
   
-> 每次触发事件时都取消之前的延时调用方法
+    > 每次触发事件时都取消之前的延时调用方法
 
         function debounce(fn) {
               let timeout = null; // 创建一个标记用来存放定时器的返回值
@@ -28,9 +28,9 @@
             
             
 + 节流:
-> 高频事件触发，但在n秒内只会执行一次，所以节流会稀释函数的执行频率 
+    > 高频事件触发，但在n秒内只会执行一次，所以节流会稀释函数的执行频率 
 
-> 每次触发事件时都判断当前是否有等待执行的延时函数
+    > 每次触发事件时都判断当前是否有等待执行的延时函数
 
         function throttle(fn) {
               let canRun = true; // 通过闭包保存一个标记
@@ -48,3 +48,16 @@
               console.log(e.target.innerWidth, e.target.innerHeight);
             }
             window.addEventListener('resize', throttle(sayHi));
+
+
+### setTimeout、Promise、Async/Await 的区别
+
+    1.JS是单线程语言，包括同步任务、异步任务，异步任务又包括宏观任务和微观任务
+
+    2.执行顺序：同步任务——>微观任务——>宏观任务
+
+    3.宏观任务的方法有：script(整体代码)、setTimeout、setInterval、I/O、UI交互事件、postMessage、MessageChannel、setImmediate(Node.js 环境)
+
+    4.微观任务的方法有：Promise.then、MutaionObserver、process.nextTick(Node.js 环境)，async/await实际上是promise+generator的语法糖，也就是promise，也就是微观任务
+
+

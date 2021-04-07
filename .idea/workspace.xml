@@ -19,17 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="小程序canvas">
-      <change afterPath="$PROJECT_DIR$/docs/question/jsCompileError.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/question/question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/rule/eslint.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/rule/name.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/vue/commumication.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/vue/lifecycle.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/img/构建教程.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="feat: 添加一些面试题">
+      <change beforePath="$PROJECT_DIR$/docs/question/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/question/question.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +75,7 @@
       <workItem from="1616586978000" duration="1967000" />
       <workItem from="1617068176557" duration="3444000" />
       <workItem from="1617090962373" duration="918000" />
-      <workItem from="1617794589854" duration="2481000" />
+      <workItem from="1617794589854" duration="2949000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1615341504362</created>
@@ -121,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616588217488</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: 添加一些面试题">
+      <created>1617797099966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617797099966</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,17 +141,18 @@
     <MESSAGE value="新建" />
     <MESSAGE value="构建教程添加" />
     <MESSAGE value="小程序canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="小程序canvas" />
+    <MESSAGE value="feat: 添加一些面试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加一些面试题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617795897458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617795897458" />
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1616588220099">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1617797101619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1616588220099" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617797101619" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617795964480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
