@@ -19,14 +19,29 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="构建教程添加">
+    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="小程序canvas">
+      <change afterPath="$PROJECT_DIR$/docs/question/jsCompileError.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/question/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/rule/eslint.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/rule/name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/vue/commumication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/vue/lifecycle.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/构建教程.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,16 +52,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/mini-program" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/rule" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my-docs\docs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\my-docs\docs\mini-program" />
+      <recent name="E:\my-docs\docs\rule" />
       <recent name="E:\my-docs\docs\img" />
+      <recent name="E:\my-docs\docs\travel" />
+      <recent name="E:\my-docs\docs\mini-program" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +81,10 @@
       <workItem from="1615339136371" duration="2249000" />
       <workItem from="1615341452059" duration="5261000" />
       <workItem from="1616490662914" duration="2470000" />
-      <workItem from="1616586978000" duration="1189000" />
+      <workItem from="1616586978000" duration="1967000" />
+      <workItem from="1617068176557" duration="3444000" />
+      <workItem from="1617090962373" duration="918000" />
+      <workItem from="1617794589854" duration="2481000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1615341504362</created>
@@ -90,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615345035712</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="小程序canvas">
+      <created>1616588217488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616588217488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,16 +142,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建" />
     <MESSAGE value="构建教程添加" />
-    <option name="LAST_COMMIT_MESSAGE" value="构建教程添加" />
+    <MESSAGE value="小程序canvas" />
+    <option name="LAST_COMMIT_MESSAGE" value="小程序canvas" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1615345038430">
+    <state x="697" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617795897458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1615345038430" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616587545214">
+    <state x="697" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617795897458" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1616588220099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1616587545214" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1616588220099" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617795964480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617795964480" />
   </component>
 </project>
