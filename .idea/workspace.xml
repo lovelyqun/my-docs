@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="feat: 添加一些面试题">
-      <change beforePath="$PROJECT_DIR$/docs/question/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/question/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/rule/version.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,14 +54,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\my-docs\docs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\my-docs\docs\rule" />
       <recent name="E:\my-docs\docs\img" />
       <recent name="E:\my-docs\docs\travel" />
       <recent name="E:\my-docs\docs\mini-program" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my-docs\docs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +78,9 @@
       <workItem from="1616586978000" duration="1967000" />
       <workItem from="1617068176557" duration="3444000" />
       <workItem from="1617090962373" duration="918000" />
-      <workItem from="1617794589854" duration="2949000" />
+      <workItem from="1617794589854" duration="3101000" />
+      <workItem from="1617869903128" duration="2375000" />
+      <workItem from="1617948529854" duration="2032000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1615341504362</created>
@@ -119,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617797099966</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: 添加一些面试题">
+      <created>1617797581284</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617797581284</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: 添加一些面试题">
+      <created>1617797648277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617797648277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,13 +168,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617795897458" />
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1617797101619">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1617797681522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617797101619" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617795964480">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617797681522" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617950129420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617795964480" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617950129420" />
   </component>
 </project>
