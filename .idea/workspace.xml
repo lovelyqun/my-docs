@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="feat: 添加一些面试题">
-      <change afterPath="$PROJECT_DIR$/docs/rule/version.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+    <list default="true" id="e8a560b2-2663-4610-b795-060103e8195c" name="Default Changelist" comment="feat: 新增前端版本管理规范 (分支管理规范,代码提交规范)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +78,8 @@
       <workItem from="1617090962373" duration="918000" />
       <workItem from="1617794589854" duration="3101000" />
       <workItem from="1617869903128" duration="2375000" />
-      <workItem from="1617948529854" duration="2032000" />
+      <workItem from="1617948529854" duration="3587000" />
+      <workItem from="1618372665733" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1615341504362</created>
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617797648277</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: 新增前端版本管理规范 (分支管理规范,代码提交规范)">
+      <created>1617950821236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617950821236</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,17 +167,19 @@
     <MESSAGE value="构建教程添加" />
     <MESSAGE value="小程序canvas" />
     <MESSAGE value="feat: 添加一些面试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加一些面试题" />
+    <MESSAGE value="feat: 新增前端版本管理规范 (分支管理规范,代码提交规范)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 新增前端版本管理规范 (分支管理规范,代码提交规范)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617795897458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617795897458" />
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1617797681522">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1617950824537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.26.1344.800@0.0.1920.1040" timestamp="1617797681522" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617950824537" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617950129420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
