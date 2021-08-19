@@ -2,14 +2,23 @@
 
 #### 分支管理规范
 
-+ 开发新版本 : 从 master 新建分支,分支命名 develop-版本号
-+ 修复bug : 从master新建分支,分支命名规则 fix-问题 
+#####  git主分支(master)。用于发布重大版本更新
 
-### 代码提交规范
+##### git开发主分支(develop)。日常开发在此分支上进行
 
-#### 提交内容组成: type:subject+body
+##### git临时性分支：用于应对一些特定目的的版本开发(验证OK后，应该删除此分支)，主要有： 　
 
-#### type:提交的类型 **<font color=red>(必须)</font>**
++ 功能（feature）分支：它是为了开发某种特定功能，从Develop分支上面分出来的。开发完成后，要再并入Develop。可以采用feature-的形式命名。
+<br>
++ 预发布（release）分支：指发布正式版本之前（即合并到Master分支之前），我们可能需要有一个预发布的版本进行测试。预发布分支是从Develop分支上面分出来的，预发布结束以后，必须合并进Develop和Master分支。它的命名，可以采用release-的形式
+<br>
++ 修补bug（hotfix）分支：软件正式发布以后，难免会出现bug。这时就需要创建一个分支，进行bug修补。修补bug分支是从Master分支上面分出来的。修补结束以后，再合并进Master和Develop分支。它的命名，可以采用hotfix-***的形式。
+
+#### 代码提交规范
+
+##### 提交内容组成: type:subject+body
+
+##### type:提交的类型 **<font color=red>(必须)</font>**
 + feat: 新功能、新特性
 + fix: 修改 bug
 + perf: 更改代码，以提高性能
@@ -24,11 +33,12 @@
 + release: 发布新版本
 + workflow: 工作流相关文件修改   
 
-#### subject:提交的主要内容 **<font color=red>(必须)</font>**
+##### subject:提交的主要内容 **<font color=red>(必须)</font>**
 
-#### body:提交的具体细节 **<font color=blue>(可选)</font>**
+##### body:提交的具体细节 **<font color=blue>(可选)</font>**
 
-#### 实例  
+##### 实例  
+
     feat: 新增前端版本管理规范 (分支管理规范,代码提交规范)
     
     fix: 修复发布按钮点击没反应的问题(因为使用了js的新特性,在低版本编译失败,导致点击没反应的问题)
