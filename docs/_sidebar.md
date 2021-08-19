@@ -21,6 +21,7 @@
 - 规范
 - [命名规范](./rule/name.html)
 - [eslint](./rule/eslint.md)
+- [版本管理](./rule/version.md)
 
 - 浏览器
 - [缓存](./browser/cache.md)
