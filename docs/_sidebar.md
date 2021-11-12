@@ -1,6 +1,7 @@
 * javascript
   * [闭包](./js/closure.md)
-  * [原型](./js/prototype.md)
+  * [节流防抖](./js/debounce-throttle.md)
+  * [深拷贝](./js/deepClone.md)
 
 * CSS
   * [布局](layout.md)
@@ -26,6 +27,8 @@
 
 * 浏览器
   * [缓存](./browser/cache.md)
+  * [日志](./browser/console.md)
+  * [webview](./browser/webview.md)
 
 * 低代码
   * [例子](./low-code/index.md)
