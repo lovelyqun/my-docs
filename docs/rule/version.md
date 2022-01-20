@@ -1,5 +1,5 @@
 ### git基本概念介绍
-<img src="../img/gitwork.awebp"></img>
+<img src="./img/gitwork.awebp"></img>
 <p> <b>Workspace</b>：工作区，就是平时进行开发改动的地方，是当前看到最新的内容，在开发的过程也就是对工作区的操作</p>
 <p><b>Index</b>：暂存区，当执行 git add 的命令后，工作区的文件就会被移入暂存区，暂存区标记了当前工作区中那些内容是被 Git 管理的，当完成某个需求或者功能后需要提交代码，第一步就是通过 git add 先提交到暂存区。
 <p><b> Repository</b>：本地仓库，位于自己的电脑上，通过 git commit 提交暂存区的内容，会进入本地仓库。
