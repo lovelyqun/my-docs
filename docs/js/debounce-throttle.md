@@ -14,7 +14,7 @@
           clearTimeout(timeout)
           timeout = setTimeout(function(){
             func.apply(context,args)
-          }){}
+          },wait)
         }
       }
     
