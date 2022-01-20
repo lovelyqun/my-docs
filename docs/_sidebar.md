@@ -1,7 +1,11 @@
+* 计算机
+  * [进程与线程](./basic/进程与线程.md)
+
 * javascript
   * [闭包](./js/closure.md)
   * [节流防抖](./js/debounce-throttle.md)
   * [深拷贝](./js/deepClone.md)
+  * [变量提升](./js/varUp.md)
 
 * CSS
   * [布局](layout.md)
@@ -19,7 +23,6 @@
   * [知识点](./question/question.md)
   * [源码修改](./question/sourceModify.md)
 
-
 * 规范
   * [命名规范](./rule/name.html)
   * [eslint](./rule/eslint.md)
@@ -29,7 +32,8 @@
   * [缓存](./browser/cache.md)
   * [日志](./browser/console.md)
   * [webview](./browser/webview.md)
+  * [安全](./browser/safe.md)
+  * [性能优化](./browser/webPerformanceOptimization.md)
 
 * 低代码
   * [例子](./low-code/index.md)
-
