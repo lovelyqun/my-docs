@@ -7,7 +7,7 @@
 
 #### 加载阶段
 
-<img  src="./img/web-render.jpg">
+<img  src="../browser/img/web-render.jpg">
 
 加载阶段，是指从发出请求到渲染出完整⻚⾯的过程，影响到这个阶段的主要因素有⽹络和JavaScript脚本。
 网络决定资源的下载速度,javascript脚本阻塞dom解析,css脚本不阻塞dom解析(但是如果是放在head的话会阻
@@ -26,7 +26,7 @@
 
 #### 交互阶段
 
-<img  src="./img/web-render2.jpg">
+<img  src="../browser/img/web-render2.jpg">
 
 交互阶段，主要是从⻚⾯加载完成到⽤⼾交互的整合过程，影响到这个阶段的主要因素是JavaScript脚本,次要原因有重绘->重排->合成
 
