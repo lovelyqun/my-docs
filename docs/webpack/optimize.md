@@ -1,22 +1,26 @@
 ### 如何提高webpack打包效率
 
-1. 检测打包效率:通过安装speed-measure-webpack-plugin
-npm install --save-dev speed-measure-webpack-plugin
+ #### 量化打包效率
+安装
 
-const SpeedMeasurePlugin = require("speed-measure-webpack-plugin")
-
-const smp = new SpeedMeasurePlugin();
-
-const webpackConfig = smp.wrap({
-
-});
-
-2. 通过输出的数据分析打包原因
+       npm install --save-dev speed-measure-webpack-plugin
+       
+配置
 
 
-3. 添加缓存插件
+        const SpeedMeasurePlugin = require("speed-measure-webpack-plugin")
 
-webpack 5 可直接配置开启缓存
+        const smp = new SpeedMeasurePlugin();
+
+        const webpackConfig = smp.wrap({
+
+        });
+
+
+
+#### 添加缓存插件
+
+##### webpack 5 可直接配置开启缓存
 
 
     module.exports = {
@@ -26,7 +30,12 @@ webpack 5 可直接配置开启缓存
     },
   }
 
-低于webpack5 通过 hard-source-webpack-plugin插件
+#####  低于webpack5 通过 hard-source-webpack-plugin插件
+安装
+   
+    npm install --save-dev hard-source-webpack-plugin
+
+配置
 
     const HardSourceWebpackPlugin = require('hard-source-webpack-plugin')
     module.exports = {
