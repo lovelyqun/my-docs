@@ -41,3 +41,10 @@
 * 打包
   * [优化](./webpack/optimize.md)
   * [npm](./webpack/npm.md)
+
+* typescript
+  * [学习笔记](./ts/note.md)
+  
+* npm
+  * [基本指令](./npm/npm.md)
+  * [原理](./npm/npm-install.md)
