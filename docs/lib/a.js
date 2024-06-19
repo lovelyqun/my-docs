@@ -3,10 +3,10 @@ class ClassA {
     a = 1
     b = 2
   }
-  setAValue() {
+  setAValue () {
     this.a++
   }
-  setBValue() {
+  setBValue () {
     this.b++
   }
 }

@@ -48,3 +48,6 @@
 * npm
   * [基本指令](./npm/npm.md)
   * [原理](./npm/npm-install.md)
+
+* 生活
+  * [养鱼](./live/fish.md)

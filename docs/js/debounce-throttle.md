@@ -33,7 +33,7 @@
             if(!timeout){
               setTimeout(function(){
                 func.apply(context,args)
-              }){}
+              }，await)
             }
           }
         }
