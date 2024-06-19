@@ -1,5 +1,6 @@
 * 计算机
   * [进程与线程](./basic/进程与线程.md)
+  * [linux命令](./linux/commond.md)
 
 * javascript
   * [闭包](./js/closure.md)
